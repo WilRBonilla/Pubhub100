@@ -52,6 +52,7 @@
                         <ul class="dropdown-menu">
                           <li><a href="BookPublishing">Home (Level 100)</a></li>
                           <li class="divider"></li>
+                          <li> <a href="TagSearchHome"> Browse books by tag</a></li>
                           <li><a href="PublishBook">Publish Book</a></li>
                         </ul>
                     </li>
