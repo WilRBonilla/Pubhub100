@@ -24,6 +24,10 @@ maintaining the functionality of updating book details
 as well. A user should also be able to search for books
 using a given tag. 
 
+To make it work, we need to have a web server and a database
+established. I used JBoss tools for the server and
+posgreSQL for a database.
+
 I created a system of tags so that a user can see
 all tags currently in the database as well as access a
 list of books containing a given tag. An author will be
@@ -33,6 +37,5 @@ checking check boxes or by writing in a custom text.
 This process took a span of approximately two weeks. 
 The application still lacks a proper marketplace and
 social media implementation.
-
 
 =======================================================
