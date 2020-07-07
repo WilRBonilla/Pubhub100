@@ -11,5 +11,6 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.jboss.ide.eclipse.as.core.server.runtime.runtimeTarget/WildFly 10.x Runtime"/>
 	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.jboss.ide.eclipse.as.core.server.runtime.runtimeTarget/WildFly 19.0 Runtime"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container/PubHub-StarterKit"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
