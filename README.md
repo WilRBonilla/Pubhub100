@@ -1,7 +1,7 @@
-# Pubhub100
+# Pubhub200
 =======================================================
 
-Pubhub 100 README
+Pubhub 200 README
 
 This is a dynamic web application that displays a webpage
 to a user, makes use of Java servlets for accessing 
