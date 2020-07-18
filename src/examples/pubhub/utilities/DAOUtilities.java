@@ -12,7 +12,7 @@ import examples.pubhub.dao.*;
 public class DAOUtilities {
 
 	private static final String CONNECTION_USERNAME = "postgres";
-	private static final String CONNECTION_PASSWORD = "Ramon105";
+	private static final String CONNECTION_PASSWORD = "password";
 	private static final String URL = "jdbc:postgresql://localhost:5432/PubHub";
 	private static Connection connection;
 	
